@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Experimentos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="testtoast">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--<string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <!--<string name="hello_blank_fragment1">Este es el Fragmento 1</string>-->
+    <!--<string name="hello_blank_fragment2">Este es el Fragmento 2</string>-->
+
+</resources>

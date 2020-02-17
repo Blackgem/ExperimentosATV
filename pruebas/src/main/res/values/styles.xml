@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Estilo por defecto para leanback-->
+    <!--<style name="AppTheme" parent="@style/Theme.Leanback" />-->
+    <!--Estilo copiado de moviles-->
+    <style name="AppTheme" parent="Theme.AppCompat" />
+</resources>
